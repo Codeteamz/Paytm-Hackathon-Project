@@ -1,2 +1,0 @@
-# Paytm-Hackathon-Project
-Paytm
